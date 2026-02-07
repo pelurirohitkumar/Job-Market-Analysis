@@ -68,7 +68,6 @@ The goal is to demonstrate end-to-end data analysis using
 - Python (Pandas, Matplotlib)
 - SQL
 - Power BI
-- Git & GitHub
 
 ---
 
