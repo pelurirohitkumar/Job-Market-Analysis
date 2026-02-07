@@ -10,20 +10,20 @@ This project analyzes job market data to identify trends in:
 
 The goal is to demonstrate end-to-end data analysis using
 **Python (EDA), SQL, and Power BI**.
-
 ---
 
 ## 🧾 Dataset
 - Records: ~10,000 job postings
 - Features include:
+  - Job_Id
   - Job Title
   - Salary
   - Industry
   - Company Size
   - Location
+  - Remote_Option
   - Skills Required
   - Posting Date
-
 ---
 
 ## 🔍 Exploratory Data Analysis (EDA)
@@ -34,9 +34,6 @@ The goal is to demonstrate end-to-end data analysis using
 - Industry and location insights
 - Skill Demand analysis
 - Time-based trends
-
-📁 Folder: `eda/`
-
 ---
 
 ## 🗄️ SQL Analysis
@@ -48,9 +45,6 @@ The goal is to demonstrate end-to-end data analysis using
   - Skills Demand Analysis
   - Demand & Growth Trends
 - Used aggregations, filtering, and grouping
-
-📁 Folder: `sql/`
-
 ---
 
 ## 📈 Power BI Dashboard
@@ -62,15 +56,12 @@ The goal is to demonstrate end-to-end data analysis using
 - Skill demand visualization
 - Location-based job distribution
 - Hiring trends over time
-
-📁 Folder: `powerbi/`
-
+---
 ## 📌 Key Insights
 - AI and Quantum Computing roles offer higher average salaries
 - Large companies tend to pay slightly more than small companies
 - Python and AI-related skills are in highest demand
 - Hiring shows seasonal trends across months
-
 ---
 
 ## 🛠 Tools & Technologies
