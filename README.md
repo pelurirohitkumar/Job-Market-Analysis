@@ -70,7 +70,3 @@ The goal is to demonstrate end-to-end data analysis using
 - Power BI
 
 ---
-
-## 👤 Author
-**Peluri Rohit Kumar**  
-Aspiring Data Analyst / Power BI Developer
